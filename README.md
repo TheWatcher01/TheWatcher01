@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Teddy%20Deberdt&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Full-stack%20%26%20DevOps%20%C2%B7%20Toulouse%2C%20France&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<h1 align="center">Teddy Deberdt</h1>
+<h4 align="center">Full-stack &amp; DevOps · Toulouse, France</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Self-hosted+%C2%B7+Open-source+%C2%B7+Zero+paid+SaaS;OSINT+%C2%B7+Data+Engineering+%C2%B7+AI%2FML+%C2%B7+Sovereign+Infrastructure" />
@@ -143,5 +144,3 @@ Full-stack Development  ████████░░   Next.js, Hono, TypeScri
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheWatcher01/TheWatcher01/output/github-snake-dark.svg" width="100%" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
