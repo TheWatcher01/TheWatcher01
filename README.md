@@ -1,146 +1,92 @@
-<h1 align="center">Teddy Deberdt</h1>
-<h4 align="center">Full-stack &amp; DevOps · Toulouse, France</h4>
+# Teddy Deberdt
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Self-hosted+%C2%B7+Open-source+%C2%B7+Zero+paid+SaaS;OSINT+%C2%B7+Data+Engineering+%C2%B7+AI%2FML+%C2%B7+Sovereign+Infrastructure" />
-</p>
-
-<p align="center">
-  <a href="mailto:teddydeberdt@dev31.fr"><img src="https://img.shields.io/badge/Email-teddydeberdt%40dev31.fr-1f6feb?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/teddy-deberdt"><img src="https://img.shields.io/badge/LinkedIn-teddy--deberdt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dev31.fr"><img src="https://img.shields.io/badge/Web-dev31.fr-21262d?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</p>
+**Consultant Dev Fullstack, DevSecOps, IA & RGPD** | Toulouse, France
 
 ---
 
-> *Background in mechanics, electronics and biological systems. I design software architectures the same way physical systems work: modular, circular, self-regulated, vendor-agnostic.*
+## A propos
+
+Consultant independant de 38 ans base a Toulouse, je concois des systemes autonomes, data-driven et 100% open source pour automatiser la prospection et le financement de prestations numeriques.
+
+Mon parcours atypique — 15 ans en diagnostic et maintenance automobile, puis reconversion en developpement logiciel via Holberton School Toulouse — m'a donne une approche terrain, analytique et orientee resolution de problemes.
+
+Aujourd'hui, je combine dev fullstack, DevSecOps, intelligence artificielle et conformite RGPD/NIS2 pour accompagner toute structure eligible a des subventions et ayant un besoin numerique : associations, collectivites, PME, ESMS, fondations, cooperatives.
+
+## Ce que je construis
+
+**SubventionAI** — Plateforme de matching subventions/prestations numeriques pour toute structure eligible (associations, collectivites, PME, ESMS, fondations, cooperatives). Un datalake de 2.8M+ entites alimente un moteur de scoring ML qui identifie les financements eligibles et genere des propositions a reste a charge 0 EUR pour le client.
+
+**Albert (OpenClaw)** — Bot Telegram autonome qui prospecte, qualifie les leads et orchestre le pipeline commercial. Connecte au datalake SubventionAI, il matche les besoins numeriques (IT, cybersecurite, RGPD, IA, formation) avec les dispositifs de financement adaptes (DLA, FDVA, OPCO, FSE+, cheque numerique, Cyber PME, ESMS Numerique, etc.).
+
+**Systeme circulaire** — SubventionAI alimente le datalake, le datalake entraine les modeles ML, les modeles ameliorent le scoring, le scoring trouve les clients, les clients financent les prestations, les prestations generent de la donnee. Boucle autosuffisante.
+
+## Stack technique
+
+### Langages & Frameworks
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=plastic&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+
+### Data & IA
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=plastic&logo=ollama&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+
+### Infra & DevSecOps
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=plastic&logo=debian&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=plastic&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white)
+
+### Outils & Methodologie
+
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=plastic&logo=zod&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=plastic&logo=pnpm&logoColor=white)
+
+> Architecture hexagonale (ports & adapters) | Data-first | Open source only
+
+## Domaines d'expertise
+
+- **DevSecOps** — CI/CD, conteneurisation, audit de securite, OSINT, hardening
+- **Intelligence Artificielle** — LLM/VLM locaux (Qwen, Gemma), embeddings, RAG, scoring ML
+- **RGPD & NIS2** — Mise en conformite, audit, DPO externalise, sensibilisation
+- **Fullstack** — APIs REST/GraphQL, PWA, architecture hexagonale, scraping/crawling
+
+## Statistiques GitHub
+
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/TheWatcher01"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheWatcher01&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+       <a href="https://github.com/TheWatcher01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheWatcher01&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/TheWatcher01"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWatcher01&langs_count=8&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teddy-deberdt)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:teddydeberdt@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/TheWatcher01)
 
 ---
 
-### Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,rust,docker,postgres,nodejs,nextjs,fastapi,linux,bash,git,vscode&theme=dark&perline=12" />
-</p>
-
----
-
-<details open>
-<summary><h3>Data, AI & OSINT</h3></summary>
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **albert** | Multi-agent AI assistant — 6 specialized agents, self-hosted gateway | TypeScript, Docker |
-| **[datalake-souverain](https://github.com/TheWatcher01/datalake-souverain)** | French public data lake — 29M+ rows, 20 autonomous crawlers | TypeScript, PostgreSQL, pgvector |
-| **[subvention-ai](https://github.com/TheWatcher01/subvention-ai)** | Intelligent grant search engine for businesses | Next.js, Hono, PostgreSQL |
-| **knowledge_base** | RAG platform — multi-source ingestion, conversational search, vector pipeline | Next.js, FastAPI, pgvector, Tika |
-| **[ai-hub](https://github.com/TheWatcher01/ai-hub)** | Personal AI/ML R&D lab — LLM experimentation, model benchmarking, prompt engineering | Svelte, Python, Ollama |
-| **[chainskills](https://github.com/TheWatcher01/chainskills)** | Workflow engine — define, compose & run AI agent workflows in natural language | TypeScript |
-| **[skills](https://github.com/TheWatcher01/skills)** | Reusable capability library for AI coding agents | Python |
-| **[arsenal](https://osintframework.com/)** | OSINT arsenal — 250+ tools across SOCMINT, GEOINT, threat intel, public records | Python, Bash |
-| **searxng-custom** | Custom meta-search engine — purpose-built engines for OSINT, data sourcing, market intel | Python, Docker |
-
-</details>
-
-<details open>
-<summary><h3>Business Applications</h3></summary>
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **recolte** | Farm-to-table marketplace — connects local producers to consumers, integrated payments | TypeScript, Next.js, Stripe |
-| **metha-smart** | Agricultural biogas plant optimizer — real-time ration simulation, health monitoring, offline PWA | JavaScript |
-| **kiloutout** | Multi-service concierge platform — booking, billing, scheduling, calendar sync | TypeScript, PWA |
-| **beato_tp** | AI-powered construction project management assistant | TypeScript, Prisma |
-
-</details>
-
-<details open>
-<summary><h3>Infrastructure & Tooling</h3></summary>
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[zeroclaw](https://github.com/TheWatcher01/zeroclaw)** | Autonomous AI assistant infrastructure — deploy anywhere, swap anything | Rust |
-| **[openclaw](https://github.com/TheWatcher01/openclaw)** | Personal AI assistant runtime — fork with custom agent configurations | TypeScript, Docker |
-
-</details>
-
----
-
-### Agentic & AI Infrastructure
-
-> Custom-built multi-agent ecosystem running entirely on self-hosted infrastructure.
-
-| Component | Purpose |
-|-----------|---------|
-| **OpenClaw Gateway** | Multi-agent orchestration — routes to 6 specialized agents (Dev, OSINT, Compliance, ADHD Coach, Business Intel, Wellness) |
-| **CRAG System** | Corrective RAG — KV store, vector memory, knowledge graph — offline-first with Ollama |
-| **TheWatcher Blocks** | 35+ scaffolding templates — generates adapters, crawlers, schemas, workflows from reusable blocks |
-| **chainskills** | Natural language workflow engine — `.workflow.md` files as executable agent pipelines |
-| **Datalake pgvector** | 29M+ rows of French public data with vector embeddings — feeds SubventionAI, Recolte, Albert |
-| **Stalwart + Listmonk** | Self-hosted mail stack — transactional, campaigns, DKIM/SPF/DMARC, zero external dependency |
-| **58 Custom Skills** | Agent capabilities — OSINT, data pipelines, energy management, ML, notifications, cache sync |
-| **5 LEA Agents** | Mentor, Migration, Plan, Review, WordPress — non-profit workflow automation |
-
----
-
-### Highlight — Association LEA
-
-<img src="https://img.shields.io/badge/957h-volunteer%20work%20in%202%20months-1f6feb?style=for-the-badge" />
-
-Full infrastructure deployment from scratch for a non-profit organization.
-
-| Scope | Deliverables |
-|-------|-------------|
-| **Applications** | SubventionAI (grant calendar + AI-powered form autofill), HandiPret (medical equipment marketplace PWA), 2 headless WordPress backends + Next.js frontends |
-| **Sovereign cloud** | 28 open-source services on a single VPS — Coolify, Nextcloud, Mattermost, Jitsi, Authentik SSO, Matomo, Mautic, Listmonk, Plane, Uptime Kuma, Vaultwarden, SearXNG |
-| **LMS migration** | Migrated proprietary Workleap to self-hosted Moodle — 6 active training courses |
-| **Security** | 7 audit phases, 101/101 tests passing, rate limiting, CSRF, JWT, IDOR remediation, zero critical vulnerabilities |
-| **Infrastructure** | Traefik v3, wildcard SSL, Docker Compose, PostgreSQL, MariaDB, 12 vCores / 48 GB RAM |
-
----
-
-### Areas of Expertise
-
-```
-Crawling & Scraping     ██████████   French public data, SIRENE, Agence Bio, public tenders
-Data Engineering        ██████████   ETL pipelines, PostgreSQL, pgvector, 29M+ rows
-AI & RAG                ████████░░   Multi-model agents, embeddings, vector ingestion
-OSINT & Intelligence    ████████░░   SOCMINT, GEOINT, open sources, automated enrichment
-Automation & DevOps     ██████████   Docker, CI/CD, Caddy, mail stack, sovereign infra
-Agentic Systems         ████████░░   Multi-agent orchestration, custom skills, workflow automation
-Full-stack Development  ████████░░   Next.js, Hono, TypeScript, Svelte, Python
-```
-
-### Cross-skills
-
-`15y complex systems diagnostics` · `feedback loop thinking` · `biomimetic software architecture` · `compulsive autodidact` · `tree-based R&D`
-
-### Services
-
-`Custom development` · `Data pipeline engineering` · `Self-hosted infrastructure` · `AI agent integration` · `OSINT solutions`
-
----
-
-### Activity
-
-<p align="center">
-  <a href="https://github.com/TheWatcher01">
-    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TheWatcher01">
-    <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%" />
-  </a>
-  <a href="https://github.com/TheWatcher01">
-    <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="32%" />
-  </a>
-  <a href="https://github.com/TheWatcher01">
-    <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="32%" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheWatcher01/TheWatcher01/output/github-snake-dark.svg" width="100%" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=TheWatcher01&icon=0&color=0)](https://visitcount.itsvg.in)
