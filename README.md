@@ -1,24 +1,59 @@
-# Teddy Deberdt
+```
+ _____  _            __        __       _       _                 ___  _
+|_   _|| |__    ___  \ \      / / __ _ | |_  ___| |__    ___  _ __|  \/  |
+  | |  | '_ \  / _ \  \ \ /\ / / / _` || __|/ __| '_ \  / _ \| '__| |\/| |
+  | |  | | | ||  __/   \ V  V / | (_| || |_| (__| | | ||  __/| |  | |  | |
+  |_|  |_| |_| \___|    \_/\_/   \__,_| \__|\___|_| |_| \___||_|  |_|  |_|
+```
 
-**Full-stack developer & DevOps** — Toulouse, France
+### Des systemes vivants au code vivant.
 
-Ancien diagnosticien auto reconverti dans le dev, je construis des systemes autonomes, des pipelines de donnees souverains et des agents IA self-hosted. 100% open-source, zero SaaS payant.
+Infirmier (IFSI), technicien de maintenance automobile PL, puis developpeur.
+Trois metiers, un meme reflexe : **diagnostiquer, reparer, optimiser des systemes complexes.**
 
-## Ce que je fais
+Un moteur diesel, un corps humain et un cluster de containers obeissent aux memes principes — boucles de retroaction, modularite, resilience, autonomie. J'ai passe 15 ans a les etudier dans le monde physique. Maintenant je les construis en code.
 
-- **Agents IA multi-canal** — architecture multi-agent sur infra self-hosted (LLMs locaux, gateway custom, Telegram)
-- **Data engineering** — datalake souverain PostgreSQL/pgvector, crawlers, pipelines ETL
-- **DevOps & infra** — Docker, Caddy, CI/CD, mail stack (Stalwart + Listmonk), monitoring
-- **Full-stack** — TypeScript, Next.js, Hono, Python, Rust
+---
+
+## Philosophie
+
+> *"Tout systeme vivant est circulaire, modulaire et autonome. Mon code aussi."*
+
+Je conçois des architectures qui s'inspirent des systemes biologiques :
+- **Circulaires** — chaque sortie nourrit une entree, zero dechet de donnees
+- **Modulaires** — composants interchangeables, couplage faible, cohesion forte
+- **Autonomes** — self-healing, auto-scaling, decisions locales sans orchestrateur central
+- **Agnostiques** — aucun vendor lock-in, tout est substituable
+
+Ce n'est pas une metaphore. C'est un pattern d'ingenierie que j'applique a chaque projet.
+
+---
 
 ## Projets actifs
 
-| Projet | Description |
-|--------|-------------|
-| [albert_agent](https://github.com/TheWatcher01) | Assistant IA personnel multi-agent (6 agents specialises) |
-| [datalake-souverain](https://github.com/TheWatcher01/datalake-souverain) | Pipeline de donnees publiques francaises (29M+ rows, pgvector) |
-| [subvention-ai](https://github.com/TheWatcher01/subvention-ai) | Recherche intelligente de subventions pour entreprises |
-| [dev-browser](https://github.com/TheWatcher01/dev-browser-fork) | Fork avec fix Playwright wire protocol ([PR #94](https://github.com/SawyerHood/dev-browser/pull/94)) |
+**`albert`** — Assistant IA personnel multi-agent. 6 agents specialises (dev, TDAH coach, business intelligence, compliance, wellness) qui collaborent via une gateway self-hosted. Zero SaaS payant, 100% souverain.
+
+**`datalake-souverain`** — Pipeline de donnees publiques francaises. 29M+ lignes, PostgreSQL/pgvector, crawlers automatises. Les donnees publiques doivent rester publiques et accessibles.
+
+**`subvention-ai`** — Moteur de recherche intelligent de subventions. Aide les entreprises a trouver les aides auxquelles elles ont droit, sans intermediaire.
+
+---
+
+## Comment je travaille
+
+```
+ENFP-A × TDAH impulsif × autodidacte compulsif
+```
+
+Mon cerveau fonctionne en **arbre d'exploration** : chaque probleme ouvre des branches, chaque branche connecte a d'autres projets. Ce n'est pas du chaos — c'est un graphe oriente. L'avantage : je vois les connexions que d'autres ne voient pas. Le cout : la v1 parfaite n'existe pas, donc je ship et j'itere.
+
+**Principes :**
+- Open-source ou rien. Pas de SaaS payant, pas de vendor lock-in.
+- Self-hosted d'abord. Si ca tourne sur mon VPS, ca tourne partout.
+- pnpm, Docker, TypeScript, PostgreSQL — stack opiniatree, zero bikeshedding.
+- French comments, English identifiers.
+
+---
 
 ## Stack
 
@@ -31,9 +66,14 @@ Ancien diagnosticien auto reconverti dans le dev, je construis des systemes auto
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-## Stats
+---
+
+## Inspirations
+
+Les systemes biologiques (homeostasie, autopoiese), la cybernétique de Norbert Wiener, l'architecture hexagonale, la philosophie Unix, le mouvement right-to-repair, et l'idee que la technologie doit servir l'autonomie — pas la dependance.
+
+---
 
 <table>
   <tr>
@@ -46,8 +86,6 @@ Ancien diagnosticien auto reconverti dans le dev, je construis des systemes auto
   </tr>
 </table>
 
-## Contact
+---
 
-- **Email** : [teddydeberdt@dev31.fr](mailto:teddydeberdt@dev31.fr)
-- **LinkedIn** : [teddy-deberdt](https://linkedin.com/in/teddy-deberdt)
-- **Web** : [dev31.fr](https://dev31.fr)
+**Contact** : [teddydeberdt@dev31.fr](mailto:teddydeberdt@dev31.fr) · [LinkedIn](https://linkedin.com/in/teddy-deberdt) · [dev31.fr](https://dev31.fr)
