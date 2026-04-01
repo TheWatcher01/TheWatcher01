@@ -1,64 +1,64 @@
 ### Teddy Deberdt
 
-Full-stack & DevOps, Toulouse. Self-hosted, open-source, zero SaaS payant.
+Full-stack & DevOps, Toulouse, France. Self-hosted, open-source, zero paid SaaS.
 
-OSINT · Data Engineering · IA/ML · Automation · Crawlers/Scrapers · Infra souveraine
+OSINT · Data Engineering · AI/ML · Automation · Crawlers/Scrapers · Sovereign Infrastructure
 
-Background mecanique, electronique et biologique (maintenance PL, IFSI).
-Je conçois mes architectures logicielles comme des systemes physiques : modulaires, circulaires, auto-regulees, agnostiques du vendor.
-
----
-
-#### Data & IA
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **albert** | Assistant IA multi-agent — 6 agents specialises, gateway self-hosted | TypeScript, Docker |
-| **[datalake-souverain](https://github.com/TheWatcher01/datalake-souverain)** | Donnees publiques FR — 29M+ rows, 20 crawlers autonomes, pgvector | TypeScript, PostgreSQL |
-| **[subvention-ai](https://github.com/TheWatcher01/subvention-ai)** | Moteur de recherche intelligent de subventions | Next.js, Hono, PostgreSQL |
-| **knowledge_base** | Plateforme RAG — ingestion multi-source, chat, pipeline vectoriel | Next.js, FastAPI, pgvector, Tika |
-| **[ai-hub](https://github.com/TheWatcher01/ai-hub)** | Fork Open WebUI — interface LLM self-hosted, multi-modeles | Svelte, Python, Ollama |
-| **[chainskills](https://github.com/TheWatcher01/chainskills)** | CLI — workflows IA en langage naturel | TypeScript |
-| **[skills](https://github.com/TheWatcher01/skills)** | Skills reutilisables pour agents IA | Python |
-
-#### Apps metier
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **recolte** | Marketplace circuit court Occitanie — producteurs locaux, Stripe Connect | TypeScript, Next.js |
-| **metha-smart** | Optimisation methaniseurs agricoles — simulation temps reel, PWA offline | JavaScript |
-| **kiloutout** | Conciergerie multi-services — booking, facturation, planning | TypeScript, PWA |
-| **beato_tp** | Assistant IA pour gestion de chantiers BTP | TypeScript, Prisma |
-
-#### Infra & outils
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **[zeroclaw](https://github.com/TheWatcher01/zeroclaw)** | Infra assistant IA autonome — deploy anywhere, swap anything | Rust |
-| **[openclaw](https://github.com/TheWatcher01/openclaw)** | Assistant IA personnel — fork avec agents custom | TypeScript, Docker |
-| **arsenal** | Toolkit OSINT — 250+ outils, 30 cas d'usage, donnees publiques | Multi |
-| **asso_lea** | Infra associative — Moodle, Next.js, WordPress headless, cloud souverain | Multi |
+Background in mechanics, electronics and biology (heavy vehicle maintenance, nursing school).
+I design software architectures like physical systems: modular, circular, self-regulated, vendor-agnostic.
 
 ---
 
-#### Domaines d'expertise
+#### Data & AI
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **albert** | Multi-agent AI assistant — 6 specialized agents, self-hosted gateway | TypeScript, Docker |
+| **[datalake-souverain](https://github.com/TheWatcher01/datalake-souverain)** | French public data — 29M+ rows, 20 autonomous crawlers, pgvector | TypeScript, PostgreSQL |
+| **[subvention-ai](https://github.com/TheWatcher01/subvention-ai)** | Smart grant search engine for businesses | Next.js, Hono, PostgreSQL |
+| **knowledge_base** | RAG platform — multi-source ingestion, chat, vector pipeline | Next.js, FastAPI, pgvector, Tika |
+| **[ai-hub](https://github.com/TheWatcher01/ai-hub)** | Open WebUI fork — self-hosted LLM interface, multi-model | Svelte, Python, Ollama |
+| **[chainskills](https://github.com/TheWatcher01/chainskills)** | CLI — natural language AI workflows | TypeScript |
+| **[skills](https://github.com/TheWatcher01/skills)** | Reusable skills for AI agents | Python |
+
+#### Business Apps
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **recolte** | Farm-to-table marketplace — local producers, Stripe Connect | TypeScript, Next.js |
+| **metha-smart** | Agricultural biogas optimizer — real-time simulation, offline PWA | JavaScript |
+| **kiloutout** | Multi-service concierge — booking, billing, scheduling | TypeScript, PWA |
+| **beato_tp** | AI assistant for construction project management | TypeScript, Prisma |
+
+#### Infrastructure & Tools
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[zeroclaw](https://github.com/TheWatcher01/zeroclaw)** | Autonomous AI assistant infra — deploy anywhere, swap anything | Rust |
+| **[openclaw](https://github.com/TheWatcher01/openclaw)** | Personal AI assistant — fork with custom agents | TypeScript, Docker |
+| **arsenal** | OSINT toolkit — 250+ tools, 30 use cases, public data | Multi |
+| **asso_lea** | Non-profit infra — Moodle, Next.js, headless WordPress, sovereign cloud | Multi |
+
+---
+
+#### Areas of Expertise
 
 ```
-Crawling & Scraping     ██████████  Data publiques FR, SIRENE, Agence Bio, marches publics
+Crawling & Scraping     ██████████  French public data, SIRENE, Agence Bio, public tenders
 Data Engineering        ██████████  ETL, pipelines, PostgreSQL, pgvector, 29M+ rows
-IA & RAG                ████████░░  Agents multi-modeles, embeddings, ingestion vectorielle
-OSINT & Veille          ████████░░  SOCMINT, GEOINT, sources ouvertes, enrichissement auto
-Automation & DevOps     ██████████  Docker, CI/CD, Caddy, mail stack, infra souveraine
+AI & RAG                ████████░░  Multi-model agents, embeddings, vector ingestion
+OSINT & Intelligence    ████████░░  SOCMINT, GEOINT, open sources, automated enrichment
+Automation & DevOps     ██████████  Docker, CI/CD, Caddy, mail stack, sovereign infra
 Full-stack              ████████░░  Next.js, Hono, TypeScript, Svelte, Python
 ```
 
 #### Cross-skills
 
-Diagnostic systemes complexes (15 ans), pensee en boucles de retroaction, approche biomimetique de l'architecture logicielle, autodidacte compulsif, R&D en arbre.
+Complex systems diagnostics (15 years), feedback loop thinking, biomimetic approach to software architecture, compulsive autodidact, tree-based R&D.
 
 #### Services
 
-Developpement sur mesure, pipelines de donnees, infra self-hosted, integration IA, OSINT.
+Custom development, data pipelines, self-hosted infrastructure, AI integration, OSINT.
 
 ---
 
