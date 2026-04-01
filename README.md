@@ -62,14 +62,17 @@ TypeScript · Python · Rust · Docker · PostgreSQL · pgvector · Node.js · N
 ---
 
 <a href="https://github.com/TheWatcher01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheWatcher01&theme=github_dark" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
 </a>
 
 <a href="https://github.com/TheWatcher01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheWatcher01&theme=github_dark" height="150" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="150" />
 </a>
 <a href="https://github.com/TheWatcher01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheWatcher01&theme=github_dark" height="150" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="150" />
+</a>
+<a href="https://github.com/TheWatcher01">
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" height="150" />
 </a>
 
 ---
