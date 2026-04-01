@@ -1,16 +1,31 @@
-### Teddy Deberdt
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Teddy%20Deberdt&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Full-stack%20%26%20DevOps%20%C2%B7%20Toulouse%2C%20France&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-Full-stack & DevOps · Toulouse, France
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Self-hosted+%C2%B7+Open-source+%C2%B7+Zero+paid+SaaS;OSINT+%C2%B7+Data+Engineering+%C2%B7+AI%2FML+%C2%B7+Sovereign+Infrastructure" />
+</p>
 
-Self-hosted, open-source, zero paid SaaS.
-
-`OSINT` · `Data Engineering` · `AI/ML` · `Automation` · `Crawling/Scraping` · `Sovereign Infrastructure`
-
-Background in mechanics, electronics and biological systems (heavy vehicle maintenance, nursing school). I design software architectures the same way physical systems work: modular, circular, self-regulated, vendor-agnostic.
+<p align="center">
+  <a href="mailto:teddydeberdt@dev31.fr"><img src="https://img.shields.io/badge/Email-teddydeberdt%40dev31.fr-1f6feb?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/teddy-deberdt"><img src="https://img.shields.io/badge/LinkedIn-teddy--deberdt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev31.fr"><img src="https://img.shields.io/badge/Web-dev31.fr-21262d?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
 ---
 
-#### Data, AI & OSINT
+> *Background in mechanics, electronics and biological systems. I design software architectures the same way physical systems work: modular, circular, self-regulated, vendor-agnostic.*
+
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,py,rust,docker,postgres,nodejs,nextjs,fastapi,linux,bash,git,vscode&theme=dark&perline=12" />
+</p>
+
+---
+
+<details open>
+<summary><h3>Data, AI & OSINT</h3></summary>
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -24,7 +39,10 @@ Background in mechanics, electronics and biological systems (heavy vehicle maint
 | **[arsenal](https://osintframework.com/)** | OSINT arsenal — 250+ tools across SOCMINT, GEOINT, threat intel, public records | Python, Bash |
 | **searxng-custom** | Custom meta-search engine — purpose-built engines for OSINT, data sourcing, market intel | Python, Docker |
 
-#### Business Applications
+</details>
+
+<details open>
+<summary><h3>Business Applications</h3></summary>
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -33,18 +51,23 @@ Background in mechanics, electronics and biological systems (heavy vehicle maint
 | **kiloutout** | Multi-service concierge platform — booking, billing, scheduling, calendar sync | TypeScript, PWA |
 | **beato_tp** | AI-powered construction project management assistant | TypeScript, Prisma |
 
-#### Infrastructure & Tooling
+</details>
+
+<details open>
+<summary><h3>Infrastructure & Tooling</h3></summary>
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[zeroclaw](https://github.com/TheWatcher01/zeroclaw)** | Autonomous AI assistant infrastructure — deploy anywhere, swap anything | Rust |
 | **[openclaw](https://github.com/TheWatcher01/openclaw)** | Personal AI assistant runtime — fork with custom agent configurations | TypeScript, Docker |
 
+</details>
+
 ---
 
-#### Agentic & AI Infrastructure
+### Agentic & AI Infrastructure
 
-Custom-built multi-agent ecosystem running entirely on self-hosted infrastructure:
+> Custom-built multi-agent ecosystem running entirely on self-hosted infrastructure.
 
 | Component | Purpose |
 |-----------|---------|
@@ -59,21 +82,23 @@ Custom-built multi-agent ecosystem running entirely on self-hosted infrastructur
 
 ---
 
-#### Highlight — Association LEA (957h of volunteer work in 2 months)
+### Highlight — Association LEA
 
-Full infrastructure deployment from scratch for a non-profit organization (Lutter, Ecouter, Accompagner):
+<img src="https://img.shields.io/badge/957h-volunteer%20work%20in%202%20months-1f6feb?style=for-the-badge" />
+
+Full infrastructure deployment from scratch for a non-profit organization.
 
 | Scope | Deliverables |
 |-------|-------------|
 | **Applications** | SubventionAI (grant calendar + AI-powered form autofill), HandiPret (medical equipment marketplace PWA), 2 headless WordPress backends + Next.js frontends |
-| **Sovereign cloud** | 28 open-source services deployed on a single VPS — Coolify, Nextcloud, Mattermost, Jitsi, Authentik SSO, Matomo, Mautic, Listmonk, Plane, Uptime Kuma, Vaultwarden, SearXNG |
+| **Sovereign cloud** | 28 open-source services on a single VPS — Coolify, Nextcloud, Mattermost, Jitsi, Authentik SSO, Matomo, Mautic, Listmonk, Plane, Uptime Kuma, Vaultwarden, SearXNG |
 | **LMS migration** | Migrated proprietary Workleap to self-hosted Moodle — 6 active training courses |
-| **Security hardening** | 7 comprehensive audit phases, 101/101 tests passing, rate limiting, CSRF, JWT, IDOR remediation, zero critical vulnerabilities |
+| **Security** | 7 audit phases, 101/101 tests passing, rate limiting, CSRF, JWT, IDOR remediation, zero critical vulnerabilities |
 | **Infrastructure** | Traefik v3, wildcard SSL, Docker Compose, PostgreSQL, MariaDB, 12 vCores / 48 GB RAM |
 
 ---
 
-#### Areas of Expertise
+### Areas of Expertise
 
 ```
 Crawling & Scraping     ██████████   French public data, SIRENE, Agence Bio, public tenders
@@ -85,21 +110,17 @@ Agentic Systems         ████████░░   Multi-agent orchestrati
 Full-stack Development  ████████░░   Next.js, Hono, TypeScript, Svelte, Python
 ```
 
-#### Cross-skills
+### Cross-skills
 
-15 years of complex systems diagnostics · feedback loop thinking · biomimetic approach to software architecture · compulsive autodidact · tree-based R&D methodology
+`15y complex systems diagnostics` · `feedback loop thinking` · `biomimetic software architecture` · `compulsive autodidact` · `tree-based R&D`
 
-#### Services
+### Services
 
-Custom software development · data pipeline engineering · self-hosted infrastructure · AI agent integration · OSINT solutions
-
----
-
-#### Stack
-
-`TypeScript` · `Python` · `Rust` · `Docker` · `PostgreSQL` · `pgvector` · `Node.js` · `Next.js` · `FastAPI` · `Caddy` · `Linux` · `Ollama` · `Playwright`
+`Custom development` · `Data pipeline engineering` · `Self-hosted infrastructure` · `AI agent integration` · `OSINT solutions`
 
 ---
+
+### Activity
 
 <p align="center">
   <a href="https://github.com/TheWatcher01">
@@ -119,6 +140,8 @@ Custom software development · data pipeline engineering · self-hosted infrastr
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheWatcher01/TheWatcher01/output/github-snake-dark.svg" width="100%" />
+</p>
 
-**Contact** · [teddydeberdt@dev31.fr](mailto:teddydeberdt@dev31.fr) · [LinkedIn](https://linkedin.com/in/teddy-deberdt) · [dev31.fr](https://dev31.fr)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
