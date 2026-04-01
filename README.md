@@ -4,6 +4,9 @@ Full-stack & DevOps, Toulouse. Self-hosted, open-source, zero SaaS payant.
 
 OSINT · Data Engineering · IA/ML · Automation · Crawlers/Scrapers · Infra souveraine
 
+Background mecanique, electronique et biologique (maintenance PL, IFSI).
+Je conçois mes architectures logicielles comme des systemes physiques : modulaires, circulaires, auto-regulees, agnostiques du vendor.
+
 ---
 
 #### Data & IA
@@ -48,6 +51,10 @@ OSINT & Veille          ████████░░  SOCMINT, GEOINT, sources
 Automation & DevOps     ██████████  Docker, CI/CD, Caddy, mail stack, infra souveraine
 Full-stack              ████████░░  Next.js, Hono, TypeScript, Svelte, Python
 ```
+
+#### Cross-skills
+
+Diagnostic systemes complexes (15 ans), pensee en boucles de retroaction, approche biomimetique de l'architecture logicielle, autodidacte compulsif, R&D en arbre.
 
 #### Services
 
