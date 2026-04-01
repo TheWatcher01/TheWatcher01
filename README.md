@@ -59,7 +59,7 @@ Custom-built multi-agent ecosystem running on self-hosted infrastructure:
 
 ---
 
-#### Highlight — Association LEA (957h in 2 months)
+#### Highlight — Association LEA (957h volunteer work in 2 months)
 
 Full infrastructure deployment from zero for a non-profit (Lutter, Ecouter, Accompagner):
 
