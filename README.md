@@ -44,8 +44,16 @@ TypeScript · Python · Rust · Docker · PostgreSQL · Node.js · Next.js · Ca
 
 ---
 
-<a href="https://github.com/TheWatcher01"><img src="https://github-readme-stats.vercel.app/api?username=TheWatcher01&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0d1117" height="150" /></a>
-<a href="https://github.com/TheWatcher01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWatcher01&langs_count=6&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117" height="150" /></a>
+<a href="https://github.com/TheWatcher01">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheWatcher01&theme=github_dark" />
+</a>
+
+<a href="https://github.com/TheWatcher01">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheWatcher01&theme=github_dark" height="150" />
+</a>
+<a href="https://github.com/TheWatcher01">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheWatcher01&theme=github_dark" height="150" />
+</a>
 
 ---
 
