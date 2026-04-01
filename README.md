@@ -17,7 +17,7 @@ I design software architectures like physical systems: modular, circular, self-r
 | **[datalake-souverain](https://github.com/TheWatcher01/datalake-souverain)** | French public data lake — 29M+ rows, 20 autonomous crawlers | TypeScript, PostgreSQL, pgvector |
 | **[subvention-ai](https://github.com/TheWatcher01/subvention-ai)** | Smart grant search engine for businesses | Next.js, Hono, PostgreSQL |
 | **knowledge_base** | RAG platform — multi-source ingestion, chat, vector pipeline | Next.js, FastAPI, pgvector, Tika |
-| **[ai-hub](https://github.com/TheWatcher01/ai-hub)** | Open WebUI fork — self-hosted LLM interface, multi-model | Svelte, Python, Ollama |
+| **[ai-hub](https://github.com/TheWatcher01/ai-hub)** | Personal AI/ML R&D lab — self-hosted LLM experimentation, model benchmarking, prompt engineering | Svelte, Python, Ollama |
 | **[chainskills](https://github.com/TheWatcher01/chainskills)** | CLI — natural language AI workflows | TypeScript |
 | **[skills](https://github.com/TheWatcher01/skills)** | Reusable skills for AI agents | Python |
 
