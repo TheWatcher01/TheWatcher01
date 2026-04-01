@@ -21,6 +21,7 @@ I design software architectures like physical systems: modular, circular, self-r
 | **[chainskills](https://github.com/TheWatcher01/chainskills)** | CLI — natural language AI workflows | TypeScript |
 | **[skills](https://github.com/TheWatcher01/skills)** | Reusable skills for AI agents | Python |
 | **[arsenal](https://osintframework.com/)** | OSINT arsenal — 250+ tools across SOCMINT, GEOINT, threat intel, public records | Python, Bash, Multi |
+| **searxng-custom** | Custom meta-search engine — tailored search engines for OSINT, data sourcing, market intel, threat monitoring | Python, Docker |
 
 #### Business Apps
 
