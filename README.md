@@ -40,17 +40,34 @@ I design software architectures like physical systems: modular, circular, self-r
 
 ---
 
+#### Agentic & AI Infrastructure
+
+Custom-built multi-agent ecosystem running on self-hosted infrastructure:
+
+| Component | What it does |
+|-----------|-------------|
+| **OpenClaw Gateway** | Multi-agent orchestration — routes requests to 6 specialized agents (Dev, OSINT, Compliance, ADHD Coach, Business Intel, Wellness) |
+| **CRAG System** | Corrective RAG — KV store + vector memory + knowledge graph, offline-first with Ollama |
+| **TheWatcher Blocks** | 35+ scaffolding templates — eliminates boilerplate, generates adapters/crawlers/schemas/workflows from blocks |
+| **chainskills** | Natural language workflow engine — define, compose, share & run agent workflows as `.workflow.md` files |
+| **Datalake pgvector** | 29M+ rows of French public data with vector embeddings — feeds SubventionAI, Recolte, Albert |
+| **Stalwart + Listmonk** | Self-hosted mail stack — transactional, campaigns, DKIM/SPF/DMARC, zero external dependency |
+| **58 Custom Skills** | Agent capabilities — OSINT, data pipes, energy management, ML, Telegram notifications, workstation cache sync |
+| **5 LEA Agents** | Mentor, Migration, Plan, Review, WordPress — configured for non-profit workflow automation |
+
+---
+
 #### Highlight — Association LEA (957h in 2 months)
 
 Full infrastructure deployment from zero for a non-profit (Lutter, Ecouter, Accompagner):
 
 | What | Details |
 |------|---------|
-| **Apps built** | SubventionAI (grant calendar + AI autofill), HandiPret (medical equipment marketplace PWA), 2 headless WordPress + Next.js frontends |
-| **Sovereign cloud** | 28 open-source services on a single OVH VPS — Coolify, Nextcloud, Mattermost, Jitsi, Authentik SSO, Matomo, Mautic, Listmonk, Plane, Uptime Kuma, Docmost, Vaultwarden, SearXNG, Shlink, Postiz |
+| **Apps built** | SubventionAI (grant calendar + AI autofill), HandiPret (medical equipment PWA), 2 headless WordPress + Next.js frontends |
+| **Sovereign cloud** | 28 open-source services on a single VPS — Coolify, Nextcloud, Mattermost, Jitsi, Authentik SSO, Matomo, Mautic, Listmonk, Plane, Uptime Kuma, Vaultwarden, SearXNG |
 | **LMS migration** | Proprietary Workleap to self-hosted Moodle — 6 active courses |
 | **Security** | 7 audit phases, 101/101 tests passing, rate limiting, CSRF, JWT, IDOR fixes, zero critical vulnerabilities |
-| **Infra** | Traefik v3, wildcard SSL, UFW, Docker Compose, PostgreSQL, MariaDB, 12 vCores / 48 GB RAM |
+| **Infra** | Traefik v3, wildcard SSL, Docker Compose, PostgreSQL, MariaDB, 12 vCores / 48 GB RAM |
 
 ---
 
@@ -62,6 +79,7 @@ Data Engineering        ██████████  ETL, pipelines, PostgreS
 AI & RAG                ████████░░  Multi-model agents, embeddings, vector ingestion
 OSINT & Intelligence    ████████░░  SOCMINT, GEOINT, open sources, automated enrichment
 Automation & DevOps     ██████████  Docker, CI/CD, Caddy, mail stack, sovereign infra
+Agentic Systems         ████████░░  Multi-agent orchestration, custom skills, workflow automation
 Full-stack              ████████░░  Next.js, Hono, TypeScript, Svelte, Python
 ```
 
@@ -71,13 +89,13 @@ Complex systems diagnostics (15 years), feedback loop thinking, biomimetic appro
 
 #### Services
 
-Custom development, data pipelines, self-hosted infrastructure, AI integration, OSINT.
+Custom development, data pipelines, self-hosted infrastructure, AI integration, agentic systems, OSINT.
 
 ---
 
 #### Stack
 
-TypeScript · Python · Rust · Docker · PostgreSQL · pgvector · Node.js · Next.js · FastAPI · Caddy · Linux
+TypeScript · Python · Rust · Docker · PostgreSQL · pgvector · Node.js · Next.js · FastAPI · Caddy · Linux · Ollama · Playwright
 
 ---
 
