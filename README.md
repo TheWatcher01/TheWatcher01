@@ -20,6 +20,7 @@ I design software architectures like physical systems: modular, circular, self-r
 | **[ai-hub](https://github.com/TheWatcher01/ai-hub)** | Personal AI/ML R&D lab — self-hosted LLM experimentation, model benchmarking, prompt engineering | Svelte, Python, Ollama |
 | **[chainskills](https://github.com/TheWatcher01/chainskills)** | CLI — natural language AI workflows | TypeScript |
 | **[skills](https://github.com/TheWatcher01/skills)** | Reusable skills for AI agents | Python |
+| **[arsenal](https://osintframework.com/)** | OSINT arsenal — 250+ tools across SOCMINT, GEOINT, threat intel, public records | Python, Bash, Multi |
 
 #### Business Apps
 
